@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @fahimaslam
-- 👀 I’m interested in developing softwares
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java based projects
+- 👋 Hi, I’m Fahim Aslam
+- 👀 I’m interested in software development specially backend development
 - 📫 Reach me at: https://www.linkedin.com/in/fahim-aslam-sw/ or fahim1.aslam@gmail.com
 
 <!---
